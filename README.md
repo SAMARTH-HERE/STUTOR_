@@ -23,6 +23,8 @@ Introducing "Stutor" - an innovative platform designed to revolutionize the way 
 [![GPLv3 License](https://img.shields.io/badge/CSS-Style-blue.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/HTML5-WebDev-green.svg)](http://www.gnu.org/licenses/agpl-3.0)
 [![AGPL License](https://img.shields.io/badge/JavaScript-Backend-Orange.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/Data-LocalStorage-purple.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 ## How it Works
 
