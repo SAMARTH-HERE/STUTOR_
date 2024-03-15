@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+our+Wesbite;Second+line+of+text)](https://git.io/typing-svg)
 # Stutor.
 
 Introducing "Stutor" -
