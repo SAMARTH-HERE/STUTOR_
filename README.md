@@ -18,10 +18,11 @@ Introducing "Stutor" - an innovative platform designed to revolutionize the way 
 
 - ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![GPLv3 License](https://img.shields.io/badge/CSS-GPL%20v3-blue.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/HTML5-AGPL-green.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
+[![GPLv3 License](https://img.shields.io/badge/CSS-Style-blue.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/HTML5-WebDev-green.svg)](http://www.gnu.org/licenses/agpl-3.0)
+[![AGPL License](https://img.shields.io/badge/HTML5-JavaScript-Orange.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 ## How it Works
 
