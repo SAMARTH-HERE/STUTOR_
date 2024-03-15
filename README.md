@@ -33,3 +33,24 @@ Introducing "Stutor" - an innovative platform designed to revolutionize the way 
 Ready to revolutionize your learning experience with Stutor? Follow these steps to get started:
 
 1. **Clone the Repository:**
+git clone https://github.com/yourusername/stutor.git
+
+
+2. **Install Dependencies:**
+cd stutor
+npm install
+
+3. **Run the Application:**
+npm start
+
+
+4. **Access the Platform:**
+Open your web browser and go to `http://localhost:3000` to access Stutor.
+
+## Contributing
+
+We welcome contributions from the community to enhance Stutor. If you have any ideas for new features or improvements, feel free to submit a pull request.
+
+## Support
+
+For any questions or assistance, please contact our support team at [support@stutor.com](mailto:support@stutor.com).
