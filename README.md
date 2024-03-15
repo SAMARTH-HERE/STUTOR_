@@ -1,3 +1,4 @@
+<img src="https://cdn.dribbble.com/users/5984233/screenshots/16237551/media/d5fdad762f17911a0e8cd6793a8c958b.gif" alt="" style="height: 100px;">
 
 # Stutor.
 Introducing "Stutor" -
