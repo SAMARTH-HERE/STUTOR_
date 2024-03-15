@@ -1,13 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Introducing+"Stutor";An+Innovative+Platform+Designed;Revolutionizing+The+Way+Of+Tutions  )](https://git.io/typing-svg)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stutor - Revolutionizing Tuitions</title>
+</head>
+<body>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com/?lines=Introducing+%22Stutor%22%3BAn+Innovative+Platform+Designed%3BRevolutionizing+The+Way+Of+Tuitions" alt="Typing SVG">
+    </a>
 
-# Stutor.
-Introducing "Stutor" -
-an innovative platform designed to revolutionize the way students receive tuition. 
-Stutor is a peer-to-peer learning platform that connects students who excel in particular subject with those who require additional guidance
+    <h1>Stutor</h1>
+    <p>Introducing "Stutor" - an innovative platform designed to revolutionize the way students receive tuition. Stutor is a peer-to-peer learning platform that connects students who excel in particular subjects with those who require additional guidance.</p>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://cdn.dribbble.com/users/1542699/screenshots/4299780/njda_monitorias_01.gif" alt="" style="width: 500px; height: 300px;">
-</div>
+    <div style="display: flex; justify-content: center;">
+        <img src="https://cdn.dribbble.com/users/1542699/screenshots/4299780/njda_monitorias_01.gif" alt="" style="width: 500px; height: 300px;">
+    </div>
 
     <h2>Features</h2>
     <ul>
@@ -47,4 +55,3 @@ Stutor is a peer-to-peer learning platform that connects students who excel in p
     <p>For any questions or assistance, please contact our support team at <a href="mailto:support@stutor.com">support@stutor.com</a>.</p>
 </body>
 </html>
-
