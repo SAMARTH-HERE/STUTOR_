@@ -4,7 +4,8 @@
 
 Introducing "Stutor" - an innovative platform designed to revolutionize the way students receive tuition. Stutor is a peer-to-peer learning platform that connects students who excel in particular subjects with those who require additional guidance.
 
-![Stutor Demo](https://cdn.dribbble.com/users/1542699/screenshots/4299780/njda_monitorias_01.gif)
+CLICK HERE TO GO TO THE LIVE WEBSITE https://samarth-here.github.io/STUTOR_/
+(P.S. It takes Around a minute to load )
 
 ## Features
 
