@@ -38,6 +38,10 @@ Introducing "Stutor" - an innovative platform designed to revolutionize the way 
    
 5. **Provide Feedback:** After each session, provide feedback to help improve the learning experience for both tutors and students.
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+![Uploading Screenshot 2024-03-16 at 12.31.17 AM.png…]()
++Here)
 ## Get Started
 
 Ready to revolutionize your learning experience with Stutor? Follow these steps to get started:
