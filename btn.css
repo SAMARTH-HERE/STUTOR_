@@ -3,12 +3,12 @@
   #left{
     display: flex;
     position: relative;
-    left: 83%;
+    left: 5%;
   }
   #left1{
     display: flex;
     position: relative;
-    left: 81%;
+    left: 5%;
   }
   
   .login-box h2 {
